@@ -5,42 +5,80 @@
       "title": "Learn Next.js basics",
       "description": "Understand routing, server components and client components",
       "status": "in-progress",
-      "priority": "high"
+      "priority": "high",
+      "assignedTo": "Omi"
     },
     {
       "id": 2,
       "title": "Build JSON server API",
       "description": "Create db.json and run fake REST API using json-server",
       "status": "done",
-      "priority": "medium"
+      "priority": "medium",
+      "assignedTo": "Rahim"
     },
     {
       "id": 3,
       "title": "Practice React hooks",
       "description": "Focus on useState, useEffect, and custom hooks",
       "status": "pending",
-      "priority": "high"
+      "priority": "high",
+      "assignedTo": "Karim"
     },
     {
       "id": 4,
       "title": "Fix UI design",
       "description": "Improve dashboard layout using Tailwind CSS",
       "status": "in-progress",
-      "priority": "low"
+      "priority": "low",
+      "assignedTo": "Sakib"
     },
     {
       "id": 5,
       "title": "Deploy project",
       "description": "Deploy Next.js project on Vercel",
       "status": "pending",
-      "priority": "medium"
+      "priority": "medium",
+      "assignedTo": "Nusrat"
     },
     {
       "id": 6,
       "title": "Learn API fetching",
       "description": "Use fetch and axios to get data from backend",
       "status": "done",
-      "priority": "low"
+      "priority": "low",
+      "assignedTo": "Tanvir"
+    },
+    {
+      "id": 7,
+      "title": "Add authentication",
+      "description": "Implement login and signup system using NextAuth or JWT",
+      "status": "pending",
+      "priority": "high",
+      "assignedTo": "Omi"
+    },
+    {
+      "id": 8,
+      "title": "Create reusable components",
+      "description": "Build buttons, cards, and modals for reuse",
+      "status": "in-progress",
+      "priority": "medium",
+      "assignedTo": "Rahim"
+    },
+    {
+      "id": 9,
+      "title": "Optimize performance",
+      "description": "Use lazy loading and code splitting",
+      "status": "pending",
+      "priority": "medium",
+      "assignedTo": "Karim"
+    },
+    {
+      "id": 10,
+      "title": "Write documentation",
+      "description": "Document project setup and features in README",
+      "status": "pending",
+      "priority": "low",
+      "assignedTo": "Nusrat"
     }
   ]
 }
